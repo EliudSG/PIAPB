@@ -1,0 +1,32 @@
+Información de la película seleccionada:
+Título: Harry Potter and the Philosopher's Stone
+Géneros: Adventure, Fantasy
+ID de la película: 671
+Fecha de lanzamiento: 2001-11-16
+Puntuación promedio: 7.916
+Resumen: Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.
+--------------------------------------------------
+Información de la película seleccionada:
+Título: Spider-Man 3
+Géneros: Fantasy, Action, Adventure
+ID de la película: 559
+Fecha de lanzamiento: 2007-05-01
+Puntuación promedio: 6.402
+Resumen: The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.
+--------------------------------------------------
+Información de la película seleccionada:
+Título: 14 Again
+Géneros: Comedy, Romance
+ID de la película: 1072582
+Fecha de lanzamiento: 2023-10-12
+Puntuación promedio: 6.25
+Resumen: The story of a young girl who flees a top university in Bangkok to her hometown to ponder her future, telling her mom that she has a school break. Should she fight to graduate and take a path in life that will enable her to support her family, or should she pursue her own goals and dreams.
+--------------------------------------------------
+Información de la película seleccionada:
+Título: The Little Mermaid II: Return to the Sea
+Géneros: Animation, Adventure, Family, Comedy
+ID de la película: 10898
+Fecha de lanzamiento: 2000-01-23
+Puntuación promedio: 6.414
+Resumen: Set several years after the first film, Ariel and Prince Eric are happily married with a daughter, Melody. In order to protect Melody from the Sea Witch, Morgana, they have not told her about her mermaid heritage. Melody is curious and ventures into the sea, where she meets new friends. But will she become a pawn in Morgana's quest to take control of the ocean from King Triton?
+--------------------------------------------------
